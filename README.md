@@ -53,7 +53,7 @@ Power BI – for data modeling, visualization, and interactivity
 
 DAX – for calculated fields and metrics
 
-Excel/CSV – (assumed) source data for loading into Power BI
+Excel – source data for loading into Power BI
 
 ## 🎯 Objectives
 Deliver actionable insights into product and customer performance
