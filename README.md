@@ -72,3 +72,9 @@ The dataset spans from 2009 to 2012.
 All visuals are interactive and slicer-enabled.
 
 Data is fictional and used for demonstration purposes.
+
+## 📬 Let’s Connect
+
+📧 Email: osarohekhoragbon@gmail.com  
+💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
